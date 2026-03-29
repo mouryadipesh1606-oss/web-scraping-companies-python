@@ -17,7 +17,7 @@ This project extracts company-related data from a website (Wikipedia) using web 
 
 ### 💻 Jupyter Notebook Code
 
-![Code1](image_proof/jupyter notebook code1.jpeg)  
+![Code1](https://github.com/mouryadipesh1606-oss/web-scraping-companies-python/blob/main/image_proof/jupyter%20notebook%20code1.jpeg)  
 ![Code2](image_proof/jupyter notebook code2.jpeg)  
 ![Code3](image_proof/jupyter notebook code3.jpeg)  
 ![Code4](image_proof/jupyter notebook code4.jpeg)
