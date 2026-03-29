@@ -13,7 +13,7 @@ This project extracts company-related data from a website (Wikipedia) using web 
 ## 📸 Screenshots
 
 ### 🌍 Source Website (Wikipedia Page)
-![Wikipedia](image_proof/wikipedia page.jpeg)
+![Wikipedia](https://github.com/mouryadipesh1606-oss/web-scraping-companies-python/blob/main/image_proof/wikipedia%20page.jpeg)
 
 ### 💻 Jupyter Notebook Code
 
