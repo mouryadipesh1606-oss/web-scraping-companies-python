@@ -1,26 +1,65 @@
-# web-scraping-companies-python
-Web scraping project using Python, BeautifulSoup, and Pandas to extract and store company data in CSV.
-# Web Scraping Project - Company Data
+# 🌐 Web Scraping Companies Data | Python Project
+
+A web scraping project built using Python, BeautifulSoup, and Pandas to extract company data from a real website and store it in a structured CSV format.
+
+---
 
 ## 📌 Overview
-This project extracts company data from a real website using Python.
 
-## 🔧 Tools Used
-- Python
-- BeautifulSoup
-- Requests
-- Pandas
+This project extracts company-related data from a website (Wikipedia) using web scraping techniques and converts it into a structured dataset for analysis.
+
+---
+
+## 📸 Screenshots
+
+### 🌍 Source Website (Wikipedia Page)
+![Wikipedia](image_proof/wikipedia page.jpeg)
+
+### 💻 Jupyter Notebook Code
+
+![Code1](image_proof/jupyter notebook code1.jpeg)  
+![Code2](image_proof/jupyter notebook code2.jpeg)  
+![Code3](image_proof/jupyter notebook code3.jpeg)  
+![Code4](image_proof/jupyter notebook code4.jpeg)
+
+### 📊 Output CSV File
+
+![CSV](image_proof/companies csv file.jpeg)
+
+---
+
+## 🔧 Tools & Technologies
+
+- Python  
+- BeautifulSoup  
+- Requests  
+- Pandas  
+- Jupyter Notebook  
+
+---
 
 ## ⚙️ Features
-- Scraped data from HTML tables
-- Cleaned data using Python
-- Converted data into Pandas DataFrame
-- Exported data to CSV
+
+- Scrapes company data from HTML tables  
+- Parses and cleans raw data  
+- Converts data into Pandas DataFrame  
+- Exports structured data into CSV  
+- Provides both Notebook and Python script  
+
+---
+
+## 📁 Project Files
+
+- `Untitled3.ipynb` → Jupyter notebook implementation  
+- `Untitled3.py` → Python script version  
+- `Companies.csv` → Final dataset  
+- `image_proof/` → Screenshots of process  
+
+---
 
 ## 📊 Output
-The final dataset is stored in `companies.csv`.
 
-## 🚀 How to Run
+The final dataset is stored in:
+
 ```bash
-pip install -r requirements.txt
-python scraper.py
+Companies.csv
