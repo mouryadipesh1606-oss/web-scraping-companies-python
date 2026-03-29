@@ -24,7 +24,7 @@ This project extracts company-related data from a website (Wikipedia) using web 
 
 ### 📊 Output CSV File
 
-![CSV](image_proof/companies csv file.jpeg)
+![CSV](https://github.com/mouryadipesh1606-oss/web-scraping-companies-python/blob/main/image_proof/companies%20csv%20file.jpeg)
 
 ---
 
